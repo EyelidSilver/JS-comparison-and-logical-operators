@@ -41,3 +41,5 @@ if (totalAmount > 25 && totalAmount < 50) {
 } else {
     console.log("You have ordered drinks for more than 100 euros! That means you get a bottle of champagne for free!")
 }
+
+const FUCK = YOU;
